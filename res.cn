@@ -1,0 +1,17 @@
+[text]
+menuFile=文件[&F]
+menuService=业务[&S]
+menuMedia=媒体[&M]
+actSIPAccount=SIP账户 (&S)
+actExit=退出
+actAutoAns=自动应答
+actPrivAddr=使用私网地址
+lblServAddr=服务器地址
+lblPort=服务器端口
+lblUserName=用户名
+lblPassword=密码
+btnOK=确认
+btnCancel=取消
+txtCall=呼叫
+txtAnswer=应答
+txtHangUp=挂断

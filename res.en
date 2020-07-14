@@ -1,0 +1,17 @@
+[text]
+menuFile=&File
+menuService=&Services
+menuMedia=&Media
+actSIPAccount=&SIP account
+actExit=E&xit
+actAutoAns=Auto answer
+actPrivAddr=Using private address
+lblServAddr=Server address
+lblPort=Port
+lblUserName=User name
+lblPassword=Password
+btnOK=Ok
+btnCancel=Cancel
+txtCall=Call
+txtAnswer=Answer
+txtHangUp=End
