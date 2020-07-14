@@ -15,7 +15,7 @@
 
 1. Pertama kita harus ***Sign up*** & ***Sign in*** sebuah akun pada website https://www.minisipserver.com/index.html
 
-   jika sudah ***Sign in*** maka klik ***Data/Server*** untuk mengetahui domain miniSIPServer Cloud kita. 
+   jika sudah ***Sign in*** maka klik ***Data/System*** untuk mengetahui domain miniSIPServer Cloud kita. 
    
    - *(setiap akun yang berhasil dibuat, akan diberikan domain gratis. sebaiknya kita memakai 1 akun saja untuk praktikum nanti, agar praktikan tidak bingung.)*
   
