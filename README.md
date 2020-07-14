@@ -35,7 +35,18 @@
   
   Masukkan username & password sesuka kita.
   
-  3. Download Aplikasi Softphone disini https://www.myvoipapp.com/download
+  3. Download Aplikasi Softphone disini https://www.myvoipapp.com/download atau bisa clone repository ini dengan cara :
+      
+      
+      ```
+       cd Desktop
+       
+       git clone https://github.com/mayathidup88/Praktikum-VoIP-CPS
+      ```
+     
+     
+     - *(Jika belum ada git di pc, bisa install git terlebih dahulu)*
+  
   
   ![image](https://user-images.githubusercontent.com/56960819/87373737-70793c00-c5b4-11ea-9a27-d7ae6eef5af8.png)
   
